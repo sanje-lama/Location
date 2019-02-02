@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/stl/Desktop/PURSUIT/android-advanced-starter-apps-master/WalkMyAndroid-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/stl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/431860f4761dcacb5f7fa6bf912ccc63/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
